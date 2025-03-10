@@ -2,7 +2,7 @@
 
 if (!$p1){
     echo "Desec Security"
-    echo "Exemplo de uso: .\script.ps1 192.168.0.12"
+    echo "Exemplo de uso: .\script.ps1 192.168.0"
 }
 else{
     foreach ($ip in 1..254){
